@@ -1,0 +1,13 @@
+{
+  "name": "mathcourseproyect-i",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass source/scss/main.scss build/css/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
