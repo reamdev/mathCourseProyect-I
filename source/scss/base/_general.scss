@@ -1,0 +1,9 @@
+@use '../abstracts/colors';
+@use '../abstracts/typography';
+
+body {
+  font-family: typography.$principal-font;
+  font-size: typography.$base-font-size;
+  color: colors.$text-color;
+  background-color: colors.$background-color;
+}
